@@ -1,0 +1,15 @@
+.profile {
+    grid-area: profile;
+    background: brown;
+    padding: 25px;
+}
+
+.profileBlock {
+    display: flex;
+}
+
+.avatar {
+    height: 100px;
+    width: 70px;
+    background: aliceblue;
+}

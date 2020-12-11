@@ -1,0 +1,15 @@
+.main {
+    /*height: 100vh;*/
+    padding: 3px;
+    display: grid;
+    grid-template-areas:
+    "header header header"
+    "navbar profile sidebar";
+    grid-template-columns: 200px 10fr 200px;
+    grid-template-rows: 80px 100vh;
+    grid-gap: 3px;
+    background: black;
+    border-radius: 5px;
+}
+
+
