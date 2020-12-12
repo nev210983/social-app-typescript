@@ -1,0 +1,20 @@
+.dialogs {
+    grid-area: profile;
+    background: chartreuse;
+    padding: 25px;
+}
+
+.nameMessageBox{
+    display: flex;
+    /*justify-content: center;*/
+}
+
+.namesBox{
+    padding: 25px;
+    width: 150px;
+}
+
+.messageBox{
+    padding: 25px;
+    border-left: 1px black solid;
+}

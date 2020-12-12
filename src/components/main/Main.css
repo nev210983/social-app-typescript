@@ -4,9 +4,10 @@
     display: grid;
     grid-template-areas:
     "header header header"
-    "navbar profile sidebar";
+    "navbar profile sidebar"
+    "footer footer footer";
     grid-template-columns: 200px 10fr 200px;
-    grid-template-rows: 80px 100vh;
+    grid-template-rows: 80px 100vh 80px;
     grid-gap: 3px;
     background: black;
     border-radius: 5px;

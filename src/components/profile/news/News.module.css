@@ -1,0 +1,5 @@
+.newsBlock {
+    grid-area: profile;
+    background: cornflowerblue;
+    padding: 25px;
+}

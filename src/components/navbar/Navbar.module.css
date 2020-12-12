@@ -1,5 +1,11 @@
 .navbar {
+    padding: 15px;
     grid-area: navbar;
     background: blueviolet;
     border-radius: 3px;
+}
+
+.navLinkItem {
+    color: inherit;
+    text-decoration: none;
 }
